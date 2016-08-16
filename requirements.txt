@@ -1,5 +1,1 @@
-chromedriver==2.21.1
-Django==1.8.4
-django-bootstrap3==7.0.1
-selenium==2.53.5
-virtualenv==15.0.2
+Django==1.8
